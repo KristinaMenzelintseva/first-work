@@ -1,5 +1,3 @@
-# first-work
-First GH project
 <!DOCTYPE html>
 <html lang="en">
 <head>
